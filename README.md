@@ -26,6 +26,6 @@ All materials are written in English and based on actual practice sessions.
 
 ## Additional Practice
 
-Since late May 2025, I have been reading at least one article daily from *The Australian*,  
-a national newspaper purchased during my visit to Perth. This has enhanced my academic vocabulary, comprehension skills,  
+Since late May 2025, I have been reading at least one article daily from "The Australian", a national newspaper purchased during my visit to Perth. 
+This has enhanced my academic vocabulary, comprehension skills,  
 and overall fluency in English. The practice also contributes to improving my Read Aloud and Repeat Sentence performance.
