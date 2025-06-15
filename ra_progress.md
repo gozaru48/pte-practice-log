@@ -44,3 +44,10 @@ This document summarizes my Read Aloud practice sessions, including personal fee
 - Maintain stable rhythm and pace regardless of sentence length
 - Improve consistency of word stress and clarity under time pressure
 - Reduce filler pauses (e.g., “uh”, “um”) through repetition training
+
+---
+
+## Supplementary Practice
+
+To strengthen pronunciation, rhythm, and academic phrasing, I have been reading at least one article per day from *The Australian* newspaper since late May 2025.  
+This daily reading practice enhances my exposure to formal written English and supports the development of chunking and intonation, which directly contribute to Read Aloud performance.
