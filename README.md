@@ -21,3 +21,11 @@ Focus Areas: Read Aloud (RA), Repeat Sentence (RS), Describe Image (DI), Write F
 This repository serves as a structured log of language preparation and continuous learning.  
 It supports both my PTE test goals and my professional portfolio as part of an ACS skills assessment submission.  
 All materials are written in English and based on actual practice sessions.
+
+---
+
+## Additional Practice
+
+Since late May 2025, I have been reading at least one article daily from *The Australian*,  
+a national newspaper purchased during my visit to Perth. This has enhanced my academic vocabulary, comprehension skills,  
+and overall fluency in English. The practice also contributes to improving my Read Aloud and Repeat Sentence performance.
