@@ -26,6 +26,6 @@ All materials are written in English and based on actual practice sessions.
 
 ## Additional Practice
 
-Since late May 2025, I have been reading at least one article daily from a national newspaper "The Australian" purchased during my visit to Perth. 
-This has enhanced my academic vocabulary, comprehension skills, and overall fluency in English. 
-The practice also contributes to improving my Read Aloud and Repeat Sentence performance.
+Since late May 2025, I have been reading at least one article daily from *The Australian*, a national newspaper I purchased during my visit to Perth.  
+This practice has significantly enhanced my academic vocabulary, reading comprehension, and overall fluency in English.  
+It also supports my performance in the Read Aloud and Repeat Sentence sections of the PTE Academic exam.
