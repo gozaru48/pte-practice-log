@@ -1,23 +1,40 @@
-# 🖼️ Describe Image Templates
+# Describe Image - Template Collection
 
-## 🧪 General Structure
-
-1. **Intro**: This image illustrates a [type of graph/image], which provides information about [topic].
-2. **Details**: The most noticeable trend is that [main point], followed by [second point].
-3. **Conclusion**: Overall, it can be concluded that [summary/insight].
+This document contains structured templates and sample expressions for the Describe Image section of the PTE Academic exam.
 
 ---
 
-## 📊 Bar Chart Template
+## Generic Template
 
-"This bar chart illustrates the comparison of X and Y over a certain period.  
-It is clear that [highest bar] is the highest, while [lowest bar] is the lowest.  
-Overall, this chart shows a [trend/conclusion]."
+1. Introduction:  
+   "The image shows a [type of visual], providing information about [topic or data]."
+
+2. Description:  
+   "The most prominent feature is [main trend or element]. It also highlights [second feature or supporting detail]."
+
+3. Conclusion:  
+   "In conclusion, this image illustrates [overall trend, implication, or insight]."
 
 ---
 
-## 📈 Line Graph Template
+## Sample – Bar Chart
 
-"This line graph demonstrates the trend of [topic] over time.  
-There is a noticeable increase/decrease in [key element].  
-In summary, the graph highlights [main takeaway]."
+"This bar chart presents a comparison between X and Y across several categories.  
+The highest value appears in [category], while the lowest is in [category].  
+Overall, the chart shows a clear trend of [observation]."
+
+---
+
+## Sample – Line Graph
+
+"This line graph displays the change in [topic] over time.  
+There is a noticeable upward/downward trend in [key element].  
+It suggests that [interpretation]."
+
+---
+
+## Sample – Pie Chart
+
+"This pie chart illustrates the proportion of different components contributing to [topic].  
+The largest segment is [component], followed by [component].  
+This indicates that [implication or analysis]."
